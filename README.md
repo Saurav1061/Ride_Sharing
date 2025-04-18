@@ -72,7 +72,7 @@ To run this project, you need:
 
 ## Setup Instructions
 
-1. Download or clone the repository:
+1. Download or clone the repository:https://github.com/Saurav1061/Ride_Sharing.git
 
 2. Move to the project directory:  
 cd DSA_Project_Ride_Sharing_Platform
